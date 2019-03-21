@@ -73,7 +73,7 @@ class Settings extends Component {
                 <label>Allow Balance on edit</label>{" "}
                 <input
                   type="checkbox"
-                  name="disableBalanceOnAdd"
+                  name="disableBalanceOnEdit"
                   checked={!disableBalanceOnEdit}
                   onChange={this.disableBalanceOnEditChange}
                 />
