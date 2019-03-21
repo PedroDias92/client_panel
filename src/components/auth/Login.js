@@ -36,7 +36,7 @@ class Login extends Component {
         <div className="row">
           {/* puts on the middle */}
           <div className="col-md-6 mx-auto">
-            <div className="card">
+            <div className="card mt-4">
               <div className="card-body">
                 <h1 className="text-center pb-4 pt-3">
                   <span className="text-primary">
